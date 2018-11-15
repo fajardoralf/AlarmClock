@@ -1,7 +1,7 @@
 # AlarmClock
 Alarm clock made with Arduino
 
-![image](/image/alarm.png)
+![image](/images/alarm.png)
 
 How it is connected
-![fritz](/image/fritz)
+![fritz](/images/fritz)
