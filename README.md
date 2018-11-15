@@ -4,4 +4,4 @@ Alarm clock made with Arduino
 ![image](/images/alarm.png)
 
 How it is connected
-![fritz](/images/fritz)
+![fritz](/images/fritz.jpg)
